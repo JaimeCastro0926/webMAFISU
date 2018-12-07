@@ -1,0 +1,526 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RoboticaMAFISU.com" resolutions="1x" timestamp="1544220401577">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="programacion-de-micros.css" crc="414943015" ref="programacion-de-micros"/>
+    <file name="nomq_programacion-de-micros.css" crc="3827212931" ref="programacion-de-micros"/>
+    <file name="paralelo.css" crc="3815486170" ref="paralelo"/>
+    <file name="nomq_paralelo.css" crc="4093774833" ref="paralelo"/>
+    <file name="videos-programacion.css" crc="433650926" ref="videos-programacion"/>
+    <file name="voltaje.css" crc="177713096" ref="voltaje"/>
+    <file name="nomq_voltaje.css" crc="130935423" ref="voltaje"/>
+    <file name="serie.css" crc="3998229192" ref="serie"/>
+    <file name="nomq_serie.css" crc="4205249872" ref="serie"/>
+    <file name="herramientas.css" crc="45637530" ref="herramientas"/>
+    <file name="nomq_herramientas.css" crc="3981437789" ref="herramientas"/>
+    <file name="proyectos.css" crc="4051022127" ref="proyectos"/>
+    <file name="nomq_proyectos.css" crc="4165869988" ref="proyectos"/>
+    <file name="programacion-en-bloques.css" crc="492768301" ref="programacion-en-bloques"/>
+    <file name="nomq_programacion-en-bloques.css" crc="114611084" ref="programacion-en-bloques"/>
+    <file name="mecanismos.css" crc="320833375" ref="mecanismos"/>
+    <file name="nomq_mecanismos.css" crc="351791370" ref="mecanismos"/>
+    <file name="corriente.css" crc="4064524374" ref="corriente"/>
+    <file name="nomq_corriente.css" crc="3855733160" ref="corriente"/>
+    <file name="multimedia.css" crc="161478067" ref="multimedia"/>
+    <file name="nomq_multimedia.css" crc="4203323488" ref="multimedia"/>
+    <file name="index.css" crc="173890448" ref="index"/>
+    <file name="electronica.css" crc="246228216" ref="electronica"/>
+    <file name="nomq_electronica.css" crc="252615791" ref="electronica"/>
+    <file name="arduino.css" crc="4170414761" ref="arduino"/>
+    <file name="nomq_arduino.css" crc="3796438944" ref="arduino"/>
+    <file name="programacion.css" crc="77680048" ref="programacion"/>
+    <file name="nomq_programacion.css" crc="281579982" ref="programacion"/>
+    <file name="lab-mecanica.css" crc="433650926" ref="lab-mecanica"/>
+    <file name="contruccion-de-mecanismos.css" crc="433650926" ref="contruccion-de-mecanismos"/>
+    <file name="ley-de-ohm.css" crc="4004721463" ref="ley-de-ohm"/>
+    <file name="nomq_ley-de-ohm.css" crc="4177933677" ref="ley-de-ohm"/>
+    <file name="home.css" crc="235218585" ref="home"/>
+    <file name="nomq_home.css" crc="4024613031" ref="home"/>
+    <file name="dispositivos-electronicos.css" crc="433650926" ref="dispositivos-electronicos"/>
+    <file name="circuitos.css" crc="3895267059" ref="circuitos"/>
+    <file name="nomq_circuitos.css" crc="4089367366" ref="circuitos"/>
+    <file name="lab-programacion.css" crc="433650926" ref="lab-programacion"/>
+    <file name="programacion-arduino.css" crc="433650926" ref="programacion-arduino"/>
+    <file name="lab-electronica.css" crc="433650926" ref="lab-electronica"/>
+    <file name="electronica-digital.css" crc="4277297536" ref="electronica-digital"/>
+    <file name="nomq_electronica-digital.css" crc="335892801" ref="electronica-digital"/>
+    <file name="proyecto-1.css" crc="433650926" ref="proyecto-1"/>
+    <file name="temas.css" crc="3920203851" ref="temas"/>
+    <file name="nomq_temas.css" crc="405669174" ref="temas"/>
+    <file name="resistencia.css" crc="4208971998" ref="resistencia"/>
+    <file name="nomq_resistencia.css" crc="4212331180" ref="resistencia"/>
+    <file name="simples.css" crc="220271011" ref="simples"/>
+    <file name="nomq_simples.css" crc="184608777" ref="simples"/>
+    <file name="proyecto-2.css" crc="433650926" ref="proyecto-2"/>
+    <file name="mecanica.css" crc="435103040" ref="mecanica"/>
+    <file name="nomq_mecanica.css" crc="393343731" ref="mecanica"/>
+    <file name="compuestas.css" crc="170907557" ref="compuestas"/>
+    <file name="nomq_compuestas.css" crc="385631506" ref="compuestas"/>
+    <file name="proyecto-3.css" crc="433650926" ref="proyecto-3"/>
+    <file name="maquinas.css" crc="418129831" ref="maquinas"/>
+    <file name="nomq_maquinas.css" crc="132690481" ref="maquinas"/>
+    <file name="videos-mecanica.css" crc="433650926" ref="videos-mecanica"/>
+    <file name="laboratorios.css" crc="4032488694" ref="laboratorios"/>
+    <file name="nomq_laboratorios.css" crc="3807438846" ref="laboratorios"/>
+    <file name="videos-electronica.css" crc="433650926" ref="videos-electronica"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home:lab-mecanica:lab-electronica:lab-programacion:proyecto-1:proyecto-2:proyecto-3:videos-mecanica:videos-electronica:videos-programacion:herramientas:mecanismos:contruccion-de-mecanismos:dispositivos-electronicos:programacion-arduino:temas:mecanica:maquinas:laboratorios:proyectos:multimedia:electronica:programacion:ley-de-ohm:circuitos:electronica-digital:simples:compuestas:serie:programacion-en-bloques:arduino:paralelo:programacion-de-micros:corriente:voltaje:resistencia"/>
+    <file name="museutils.js" crc="340535759" ref="index:home:lab-mecanica:lab-electronica:lab-programacion:proyecto-1:proyecto-2:proyecto-3:videos-mecanica:videos-electronica:videos-programacion:herramientas:mecanismos:contruccion-de-mecanismos:dispositivos-electronicos:programacion-arduino:temas:mecanica:maquinas:laboratorios:proyectos:multimedia:electronica:programacion:ley-de-ohm:circuitos:electronica-digital:simples:compuestas:serie:programacion-en-bloques:arduino:paralelo:programacion-de-micros:corriente:voltaje:resistencia"/>
+    <file name="whatinput.js" crc="86476730" ref="index:home:lab-mecanica:lab-electronica:lab-programacion:proyecto-1:proyecto-2:proyecto-3:videos-mecanica:videos-electronica:videos-programacion:herramientas:mecanismos:contruccion-de-mecanismos:dispositivos-electronicos:programacion-arduino:temas:mecanica:maquinas:laboratorios:proyectos:multimedia:electronica:programacion:ley-de-ohm:circuitos:electronica-digital:simples:compuestas:serie:programacion-en-bloques:arduino:paralelo:programacion-de-micros:corriente:voltaje:resistencia"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:home:lab-mecanica:lab-electronica:lab-programacion:proyecto-1:proyecto-2:proyecto-3:videos-mecanica:videos-electronica:videos-programacion:herramientas:mecanismos:contruccion-de-mecanismos:dispositivos-electronicos:programacion-arduino:temas:mecanica:maquinas:laboratorios:proyectos:multimedia:electronica:programacion:ley-de-ohm:circuitos:electronica-digital:simples:compuestas:serie:programacion-en-bloques:arduino:paralelo:programacion-de-micros:corriente:voltaje:resistencia"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:home:lab-mecanica:lab-electronica:lab-programacion:proyecto-1:proyecto-2:proyecto-3:videos-mecanica:videos-electronica:videos-programacion:herramientas:mecanismos:contruccion-de-mecanismos:dispositivos-electronicos:programacion-arduino:temas:mecanica:maquinas:laboratorios:proyectos:multimedia:electronica:programacion:ley-de-ohm:circuitos:electronica-digital:simples:compuestas:serie:programacion-en-bloques:arduino:paralelo:programacion-de-micros:corriente:voltaje:resistencia"/>
+    <file name="require.js" crc="7928878" ref="index:home:lab-mecanica:lab-electronica:lab-programacion:proyecto-1:proyecto-2:proyecto-3:videos-mecanica:videos-electronica:videos-programacion:herramientas:mecanismos:contruccion-de-mecanismos:dispositivos-electronicos:programacion-arduino:temas:mecanica:maquinas:laboratorios:proyectos:multimedia:electronica:programacion:ley-de-ohm:circuitos:electronica-digital:simples:compuestas:serie:programacion-en-bloques:arduino:paralelo:programacion-de-micros:corriente:voltaje:resistencia"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="home"/>
+    <file name="html5shiv.js" crc="4241844378" ref="home:lab-mecanica:lab-electronica:lab-programacion:proyecto-1:proyecto-2:proyecto-3:videos-mecanica:videos-electronica:videos-programacion:herramientas:mecanismos:contruccion-de-mecanismos:dispositivos-electronicos:programacion-arduino:temas:mecanica:maquinas:laboratorios:proyectos:multimedia:electronica:programacion:ley-de-ohm:circuitos:electronica-digital:simples:compuestas:serie:programacion-en-bloques:arduino:paralelo:programacion-de-micros:corriente:voltaje:resistencia"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="home:herramientas:mecanismos:temas:mecanica:maquinas:laboratorios:proyectos:multimedia:electronica:programacion:ley-de-ohm:circuitos:electronica-digital:simples:compuestas:serie:programacion-en-bloques:arduino:paralelo:programacion-de-micros:corriente:voltaje:resistencia"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3850556353" ref="index"/>
+    <file name="robot 2.png" crc="3862137570" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="outline-40378_1280.png" crc="384452101" seo="true" ref="herramientas">
+      <caption webpage="herramientas" alt=""/>
+      <caption webpage="herramientas" alt=""/>
+      <caption webpage="herramientas" alt=""/>
+      <caption webpage="herramientas" alt=""/>
+      <caption webpage="herramientas" alt=""/>
+      <caption webpage="herramientas" alt=""/>
+      <caption webpage="herramientas" alt=""/>
+    </file>
+    <file name="draw-1296044_1280.png" crc="413068326" seo="true" ref="herramientas">
+      <caption webpage="herramientas" alt=""/>
+      <caption webpage="herramientas" alt=""/>
+      <caption webpage="herramientas" alt=""/>
+      <caption webpage="herramientas" alt=""/>
+      <caption webpage="herramientas" alt=""/>
+      <caption webpage="herramientas" alt=""/>
+      <caption webpage="herramientas" alt=""/>
+    </file>
+    <file name="icon-214444_1920.jpg" crc="83801421" seo="true" ref="herramientas">
+      <caption webpage="herramientas" alt=""/>
+      <caption webpage="herramientas" alt=""/>
+      <caption webpage="herramientas" alt=""/>
+      <caption webpage="herramientas" alt=""/>
+      <caption webpage="herramientas" alt=""/>
+      <caption webpage="herramientas" alt=""/>
+      <caption webpage="herramientas" alt=""/>
+    </file>
+    <file name="espalda.svg" crc="499816571" seo="true" ref="herramientas:mecanismos:mecanica:electronica:programacion:ley-de-ohm:circuitos:electronica-digital:simples:compuestas:serie:programacion-en-bloques:arduino:paralelo:programacion-de-micros:corriente:voltaje:resistencia">
+      <caption webpage="programacion-en-bloques" alt=""/>
+      <caption webpage="programacion-en-bloques" alt=""/>
+      <caption webpage="programacion-en-bloques" alt=""/>
+      <caption webpage="programacion-en-bloques" alt=""/>
+      <caption webpage="programacion-en-bloques" alt=""/>
+      <caption webpage="programacion-en-bloques" alt=""/>
+      <caption webpage="programacion-en-bloques" alt=""/>
+      <caption webpage="mecanica" alt=""/>
+      <caption webpage="mecanica" alt=""/>
+      <caption webpage="mecanica" alt=""/>
+      <caption webpage="mecanica" alt=""/>
+      <caption webpage="mecanica" alt=""/>
+      <caption webpage="mecanica" alt=""/>
+      <caption webpage="mecanica" alt=""/>
+      <caption webpage="programacion" alt=""/>
+      <caption webpage="programacion" alt=""/>
+      <caption webpage="programacion" alt=""/>
+      <caption webpage="programacion" alt=""/>
+      <caption webpage="programacion" alt=""/>
+      <caption webpage="programacion" alt=""/>
+      <caption webpage="programacion" alt=""/>
+      <caption webpage="arduino" alt=""/>
+      <caption webpage="arduino" alt=""/>
+      <caption webpage="arduino" alt=""/>
+      <caption webpage="arduino" alt=""/>
+      <caption webpage="arduino" alt=""/>
+      <caption webpage="arduino" alt=""/>
+      <caption webpage="arduino" alt=""/>
+      <caption webpage="corriente" alt=""/>
+      <caption webpage="corriente" alt=""/>
+      <caption webpage="corriente" alt=""/>
+      <caption webpage="corriente" alt=""/>
+      <caption webpage="corriente" alt=""/>
+      <caption webpage="corriente" alt=""/>
+      <caption webpage="corriente" alt=""/>
+      <caption webpage="herramientas" alt=""/>
+      <caption webpage="herramientas" alt=""/>
+      <caption webpage="herramientas" alt=""/>
+      <caption webpage="herramientas" alt=""/>
+      <caption webpage="herramientas" alt=""/>
+      <caption webpage="herramientas" alt=""/>
+      <caption webpage="herramientas" alt=""/>
+      <caption webpage="electronica-digital" alt=""/>
+      <caption webpage="electronica-digital" alt=""/>
+      <caption webpage="electronica-digital" alt=""/>
+      <caption webpage="electronica-digital" alt=""/>
+      <caption webpage="electronica-digital" alt=""/>
+      <caption webpage="electronica-digital" alt=""/>
+      <caption webpage="electronica-digital" alt=""/>
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="programacion-de-micros" alt=""/>
+      <caption webpage="programacion-de-micros" alt=""/>
+      <caption webpage="programacion-de-micros" alt=""/>
+      <caption webpage="programacion-de-micros" alt=""/>
+      <caption webpage="programacion-de-micros" alt=""/>
+      <caption webpage="programacion-de-micros" alt=""/>
+      <caption webpage="programacion-de-micros" alt=""/>
+      <caption webpage="electronica" alt=""/>
+      <caption webpage="electronica" alt=""/>
+      <caption webpage="electronica" alt=""/>
+      <caption webpage="electronica" alt=""/>
+      <caption webpage="electronica" alt=""/>
+      <caption webpage="electronica" alt=""/>
+      <caption webpage="serie" alt=""/>
+      <caption webpage="serie" alt=""/>
+      <caption webpage="serie" alt=""/>
+      <caption webpage="serie" alt=""/>
+      <caption webpage="serie" alt=""/>
+      <caption webpage="serie" alt=""/>
+      <caption webpage="serie" alt=""/>
+      <caption webpage="ley-de-ohm" alt=""/>
+      <caption webpage="ley-de-ohm" alt=""/>
+      <caption webpage="ley-de-ohm" alt=""/>
+      <caption webpage="ley-de-ohm" alt=""/>
+      <caption webpage="ley-de-ohm" alt=""/>
+      <caption webpage="ley-de-ohm" alt=""/>
+      <caption webpage="ley-de-ohm" alt=""/>
+      <caption webpage="compuestas" alt=""/>
+      <caption webpage="compuestas" alt=""/>
+      <caption webpage="compuestas" alt=""/>
+      <caption webpage="compuestas" alt=""/>
+      <caption webpage="compuestas" alt=""/>
+      <caption webpage="compuestas" alt=""/>
+      <caption webpage="compuestas" alt=""/>
+      <caption webpage="mecanismos" alt=""/>
+      <caption webpage="mecanismos" alt=""/>
+      <caption webpage="mecanismos" alt=""/>
+      <caption webpage="mecanismos" alt=""/>
+      <caption webpage="mecanismos" alt=""/>
+      <caption webpage="mecanismos" alt=""/>
+      <caption webpage="mecanismos" alt=""/>
+      <caption webpage="paralelo" alt=""/>
+      <caption webpage="paralelo" alt=""/>
+      <caption webpage="paralelo" alt=""/>
+      <caption webpage="paralelo" alt=""/>
+      <caption webpage="paralelo" alt=""/>
+      <caption webpage="paralelo" alt=""/>
+      <caption webpage="paralelo" alt=""/>
+      <caption webpage="voltaje" alt=""/>
+      <caption webpage="voltaje" alt=""/>
+      <caption webpage="voltaje" alt=""/>
+      <caption webpage="voltaje" alt=""/>
+      <caption webpage="voltaje" alt=""/>
+      <caption webpage="voltaje" alt=""/>
+      <caption webpage="voltaje" alt=""/>
+      <caption webpage="circuitos" alt=""/>
+      <caption webpage="circuitos" alt=""/>
+      <caption webpage="circuitos" alt=""/>
+      <caption webpage="circuitos" alt=""/>
+      <caption webpage="circuitos" alt=""/>
+      <caption webpage="circuitos" alt=""/>
+      <caption webpage="circuitos" alt=""/>
+      <caption webpage="simples" alt=""/>
+      <caption webpage="simples" alt=""/>
+      <caption webpage="simples" alt=""/>
+      <caption webpage="simples" alt=""/>
+      <caption webpage="simples" alt=""/>
+      <caption webpage="simples" alt=""/>
+      <caption webpage="simples" alt=""/>
+    </file>
+    <file name="espalda_poster_.png" crc="82909493" ref="herramientas"/>
+    <file name="blank.gif" crc="4208392903" ref="herramientas:mecanismos:temas:mecanica:maquinas:laboratorios:proyectos:multimedia:electronica:programacion:ley-de-ohm:circuitos:electronica-digital:simples:compuestas:serie:programacion-en-bloques:arduino:paralelo:programacion-de-micros:corriente:voltaje:resistencia"/>
+    <file name="icon.svg" crc="4294678506" seo="true" ref="temas:laboratorios:proyectos:multimedia">
+      <caption webpage="temas" alt=""/>
+      <caption webpage="temas" alt=""/>
+      <caption webpage="temas" alt=""/>
+      <caption webpage="temas" alt=""/>
+      <caption webpage="temas" alt=""/>
+      <caption webpage="temas" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="laboratorios" alt=""/>
+      <caption webpage="laboratorios" alt=""/>
+      <caption webpage="laboratorios" alt=""/>
+      <caption webpage="laboratorios" alt=""/>
+      <caption webpage="laboratorios" alt=""/>
+      <caption webpage="laboratorios" alt=""/>
+      <caption webpage="proyectos" alt=""/>
+      <caption webpage="proyectos" alt=""/>
+      <caption webpage="proyectos" alt=""/>
+      <caption webpage="proyectos" alt=""/>
+      <caption webpage="proyectos" alt=""/>
+      <caption webpage="proyectos" alt=""/>
+    </file>
+    <file name="icon_poster_.png" crc="4262516822" ref="temas"/>
+    <file name="gears-686316_1920.jpg" crc="4277841687" seo="true" ref="maquinas">
+      <caption webpage="maquinas" alt=""/>
+      <caption webpage="maquinas" alt=""/>
+      <caption webpage="maquinas" alt=""/>
+      <caption webpage="maquinas" alt=""/>
+      <caption webpage="maquinas" alt=""/>
+      <caption webpage="maquinas" alt=""/>
+      <caption webpage="maquinas" alt=""/>
+    </file>
+    <file name="bicycle-161524_1280.png" crc="401919827" seo="true" ref="maquinas">
+      <caption webpage="maquinas" alt=""/>
+      <caption webpage="maquinas" alt=""/>
+      <caption webpage="maquinas" alt=""/>
+      <caption webpage="maquinas" alt=""/>
+      <caption webpage="maquinas" alt=""/>
+      <caption webpage="maquinas" alt=""/>
+      <caption webpage="maquinas" alt=""/>
+    </file>
+    <file name="pulley-3183263_1280.png" crc="4185692765" seo="true" ref="maquinas">
+      <caption webpage="maquinas" alt=""/>
+      <caption webpage="maquinas" alt=""/>
+      <caption webpage="maquinas" alt=""/>
+      <caption webpage="maquinas" alt=""/>
+      <caption webpage="maquinas" alt=""/>
+      <caption webpage="maquinas" alt=""/>
+      <caption webpage="maquinas" alt=""/>
+    </file>
+    <file name="partes-circuitos-electricos.jpg" crc="529739421" seo="true" ref="circuitos">
+      <caption webpage="circuitos" alt=""/>
+      <caption webpage="circuitos" alt=""/>
+      <caption webpage="circuitos" alt=""/>
+      <caption webpage="circuitos" alt=""/>
+      <caption webpage="circuitos" alt=""/>
+      <caption webpage="circuitos" alt=""/>
+      <caption webpage="circuitos" alt=""/>
+    </file>
+    <file name="s310500.jpg" crc="3814199366" seo="true" ref="circuitos">
+      <caption webpage="circuitos" alt=""/>
+      <caption webpage="circuitos" alt=""/>
+      <caption webpage="circuitos" alt=""/>
+      <caption webpage="circuitos" alt=""/>
+      <caption webpage="circuitos" alt=""/>
+      <caption webpage="circuitos" alt=""/>
+      <caption webpage="circuitos" alt=""/>
+    </file>
+    <file name="leds.jpg" crc="342331093" seo="true" ref="circuitos">
+      <caption webpage="circuitos" alt=""/>
+      <caption webpage="circuitos" alt=""/>
+      <caption webpage="circuitos" alt=""/>
+      <caption webpage="circuitos" alt=""/>
+      <caption webpage="circuitos" alt=""/>
+      <caption webpage="circuitos" alt=""/>
+      <caption webpage="circuitos" alt=""/>
+    </file>
+    <file name="digital.jpg" crc="3865144819" seo="true" ref="electronica-digital">
+      <caption webpage="electronica-digital" alt=""/>
+      <caption webpage="electronica-digital" alt=""/>
+      <caption webpage="electronica-digital" alt=""/>
+      <caption webpage="electronica-digital" alt=""/>
+      <caption webpage="electronica-digital" alt=""/>
+      <caption webpage="electronica-digital" alt=""/>
+      <caption webpage="electronica-digital" alt=""/>
+    </file>
+    <file name="digi.jpg" crc="4268230420" seo="true" ref="electronica-digital">
+      <caption webpage="electronica-digital" alt=""/>
+      <caption webpage="electronica-digital" alt=""/>
+      <caption webpage="electronica-digital" alt=""/>
+      <caption webpage="electronica-digital" alt=""/>
+      <caption webpage="electronica-digital" alt=""/>
+      <caption webpage="electronica-digital" alt=""/>
+      <caption webpage="electronica-digital" alt=""/>
+    </file>
+    <file name="serie.jpg" crc="4000136495" seo="true" ref="serie">
+      <caption webpage="serie" alt=""/>
+      <caption webpage="serie" alt=""/>
+      <caption webpage="serie" alt=""/>
+      <caption webpage="serie" alt=""/>
+      <caption webpage="serie" alt=""/>
+      <caption webpage="serie" alt=""/>
+      <caption webpage="serie" alt=""/>
+    </file>
+    <file name="series1.jpg" crc="4234332233" seo="true" ref="serie">
+      <caption webpage="serie" alt=""/>
+      <caption webpage="serie" alt=""/>
+      <caption webpage="serie" alt=""/>
+      <caption webpage="serie" alt=""/>
+      <caption webpage="serie" alt=""/>
+      <caption webpage="serie" alt=""/>
+      <caption webpage="serie" alt=""/>
+    </file>
+    <file name="bloques.png" crc="249875356" seo="true" ref="programacion-en-bloques">
+      <caption webpage="programacion-en-bloques" alt=""/>
+      <caption webpage="programacion-en-bloques" alt=""/>
+      <caption webpage="programacion-en-bloques" alt=""/>
+      <caption webpage="programacion-en-bloques" alt=""/>
+      <caption webpage="programacion-en-bloques" alt=""/>
+      <caption webpage="programacion-en-bloques" alt=""/>
+      <caption webpage="programacion-en-bloques" alt=""/>
+    </file>
+    <file name="pencilcodetext-300x225.jpg" crc="300672824" seo="true" ref="programacion-en-bloques">
+      <caption webpage="programacion-en-bloques" alt=""/>
+      <caption webpage="programacion-en-bloques" alt=""/>
+      <caption webpage="programacion-en-bloques" alt=""/>
+      <caption webpage="programacion-en-bloques" alt=""/>
+      <caption webpage="programacion-en-bloques" alt=""/>
+      <caption webpage="programacion-en-bloques" alt=""/>
+      <caption webpage="programacion-en-bloques" alt=""/>
+    </file>
+    <file name="scratch.jpg" crc="3869763922" seo="true" ref="programacion-en-bloques">
+      <caption webpage="programacion-en-bloques" alt=""/>
+      <caption webpage="programacion-en-bloques" alt=""/>
+      <caption webpage="programacion-en-bloques" alt=""/>
+      <caption webpage="programacion-en-bloques" alt=""/>
+      <caption webpage="programacion-en-bloques" alt=""/>
+      <caption webpage="programacion-en-bloques" alt=""/>
+      <caption webpage="programacion-en-bloques" alt=""/>
+    </file>
+    <file name="para.jpg" crc="229788604" seo="true" ref="paralelo">
+      <caption webpage="paralelo" alt=""/>
+      <caption webpage="paralelo" alt=""/>
+      <caption webpage="paralelo" alt=""/>
+      <caption webpage="paralelo" alt=""/>
+      <caption webpage="paralelo" alt=""/>
+      <caption webpage="paralelo" alt=""/>
+      <caption webpage="paralelo" alt=""/>
+    </file>
+    <file name="paralelo1.jpg" crc="4216072445" seo="true" ref="paralelo">
+      <caption webpage="paralelo" alt=""/>
+      <caption webpage="paralelo" alt=""/>
+      <caption webpage="paralelo" alt=""/>
+      <caption webpage="paralelo" alt=""/>
+      <caption webpage="paralelo" alt=""/>
+      <caption webpage="paralelo" alt=""/>
+      <caption webpage="paralelo" alt=""/>
+    </file>
+    <file name="al-mundo-de-los-microcontroladores-chapter-02fig2-11.gif" crc="521188921" seo="true" ref="programacion-de-micros">
+      <caption webpage="programacion-de-micros" alt=""/>
+      <caption webpage="programacion-de-micros" alt=""/>
+      <caption webpage="programacion-de-micros" alt=""/>
+      <caption webpage="programacion-de-micros" alt=""/>
+      <caption webpage="programacion-de-micros" alt=""/>
+      <caption webpage="programacion-de-micros" alt=""/>
+      <caption webpage="programacion-de-micros" alt=""/>
+    </file>
+    <file name="al-mundo-de-los-microcontroladores-chapter-02fig2-4.gif" crc="3880535496" seo="true" ref="programacion-de-micros">
+      <caption webpage="programacion-de-micros" alt=""/>
+      <caption webpage="programacion-de-micros" alt=""/>
+      <caption webpage="programacion-de-micros" alt=""/>
+      <caption webpage="programacion-de-micros" alt=""/>
+      <caption webpage="programacion-de-micros" alt=""/>
+      <caption webpage="programacion-de-micros" alt=""/>
+      <caption webpage="programacion-de-micros" alt=""/>
+    </file>
+    <file name="800px-voltage_source_with_metallic_conductorsvg.png" crc="195194038" seo="true" ref="corriente:resistencia">
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="corriente" alt=""/>
+      <caption webpage="corriente" alt=""/>
+      <caption webpage="corriente" alt=""/>
+      <caption webpage="corriente" alt=""/>
+      <caption webpage="corriente" alt=""/>
+      <caption webpage="corriente" alt=""/>
+      <caption webpage="corriente" alt=""/>
+    </file>
+    <file name="sinus2.jpg" crc="3854798388" seo="true" ref="corriente:resistencia">
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="corriente" alt=""/>
+      <caption webpage="corriente" alt=""/>
+      <caption webpage="corriente" alt=""/>
+      <caption webpage="corriente" alt=""/>
+      <caption webpage="corriente" alt=""/>
+      <caption webpage="corriente" alt=""/>
+      <caption webpage="corriente" alt=""/>
+    </file>
+    <file name="intensidad-de-corriente-electrica.png" crc="4249776948" seo="true" ref="corriente:resistencia">
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="resistencia" alt=""/>
+      <caption webpage="corriente" alt=""/>
+      <caption webpage="corriente" alt=""/>
+      <caption webpage="corriente" alt=""/>
+      <caption webpage="corriente" alt=""/>
+      <caption webpage="corriente" alt=""/>
+      <caption webpage="corriente" alt=""/>
+      <caption webpage="corriente" alt=""/>
+    </file>
+    <file name="high_voltage_warningsvg.png" crc="4047075170" seo="true" ref="voltaje">
+      <caption webpage="voltaje" alt=""/>
+      <caption webpage="voltaje" alt=""/>
+      <caption webpage="voltaje" alt=""/>
+      <caption webpage="voltaje" alt=""/>
+      <caption webpage="voltaje" alt=""/>
+      <caption webpage="voltaje" alt=""/>
+      <caption webpage="voltaje" alt=""/>
+    </file>
+    <file name="corriente.jpg" crc="4070169543" seo="true" ref="voltaje">
+      <caption webpage="voltaje" alt=""/>
+      <caption webpage="voltaje" alt=""/>
+      <caption webpage="voltaje" alt=""/>
+      <caption webpage="voltaje" alt=""/>
+      <caption webpage="voltaje" alt=""/>
+      <caption webpage="voltaje" alt=""/>
+      <caption webpage="voltaje" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4284649316" seo="true" mt="1544185202815" redirect="true"/>
+  <file name="home.html" crc="3849228321" seo="true" mt="1544185170674" redirect="true"/>
+  <file name="lab-mecanica.html" crc="3931377306" seo="true" mt="1543944963913" redirect="false"/>
+  <file name="lab-electronica.html" crc="66700180" seo="true" mt="1543944963915" redirect="false"/>
+  <file name="lab-programacion.html" crc="3971877534" seo="true" mt="1543944963916" redirect="false"/>
+  <file name="proyecto-1.html" crc="4180164067" seo="true" mt="1543944963918" redirect="false"/>
+  <file name="proyecto-2.html" crc="4053907171" seo="true" mt="1543944963919" redirect="false"/>
+  <file name="proyecto-3.html" crc="4129738723" seo="true" mt="1543944963921" redirect="false"/>
+  <file name="videos-mecanica.html" crc="4265615255" seo="true" mt="1543944963923" redirect="false"/>
+  <file name="videos-electronica.html" crc="443896871" seo="true" mt="1543944963928" redirect="false"/>
+  <file name="videos-programacion.html" crc="3814023149" seo="true" mt="1543944963929" redirect="false"/>
+  <file name="herramientas.html" crc="151050262" seo="true" mt="1544213858210" redirect="true"/>
+  <file name="mecanismos.html" crc="514567300" seo="true" mt="1544217839685" redirect="true"/>
+  <file name="contruccion-de-mecanismos.html" crc="256023896" seo="true" mt="1543944963951" redirect="false"/>
+  <file name="dispositivos-electronicos.html" crc="3776758864" seo="true" mt="1543944963953" redirect="false"/>
+  <file name="programacion-arduino.html" crc="16300352" seo="true" mt="1543944963954" redirect="false"/>
+  <file name="temas.html" crc="488350797" seo="true" mt="1544216580482" redirect="true"/>
+  <file name="mecanica.html" crc="356432827" seo="true" mt="1544214318743" redirect="true"/>
+  <file name="maquinas.html" crc="4261729182" seo="true" mt="1544217623424" redirect="true"/>
+  <file name="laboratorios.html" crc="3945153865" seo="true" mt="1544218559594" redirect="true"/>
+  <file name="proyectos.html" crc="3895223674" seo="true" mt="1544218636667" redirect="true"/>
+  <file name="multimedia.html" crc="4245186395" seo="true" mt="1544218683222" redirect="true"/>
+  <file name="electronica.html" crc="3818378923" seo="true" mt="1544217907645" redirect="true"/>
+  <file name="programacion.html" crc="237589111" seo="true" mt="1544217387851" redirect="true"/>
+  <file name="ley-de-ohm.html" crc="131792679" seo="true" mt="1544218784668" redirect="true"/>
+  <file name="circuitos.html" crc="4070540339" seo="true" mt="1544212511602" redirect="true"/>
+  <file name="electronica-digital.html" crc="3963305955" seo="true" mt="1544213763297" redirect="true"/>
+  <file name="simples.html" crc="3959789970" seo="true" mt="1544217726857" redirect="true"/>
+  <file name="compuestas.html" crc="4277630354" seo="true" mt="1544217781152" redirect="true"/>
+  <file name="serie.html" crc="4044788024" seo="true" mt="1544187389408" redirect="true"/>
+  <file name="programacion-en-bloques.html" crc="4280701077" seo="true" mt="1544216089191" redirect="true"/>
+  <file name="arduino.html" crc="4239127025" seo="true" mt="1544218510926" redirect="true"/>
+  <file name="paralelo.html" crc="482961141" seo="true" mt="1544188203475" redirect="true"/>
+  <file name="programacion-de-micros.html" crc="3893635867" seo="true" mt="1544217445826" redirect="true"/>
+  <file name="corriente.html" crc="4044436983" seo="true" mt="1544220018673" redirect="true"/>
+  <file name="voltaje.html" crc="34966242" seo="true" mt="1544220326900" redirect="true"/>
+  <file name="resistencia.html" crc="4288681211" seo="true" mt="1544220176816" redirect="true"/>
+</manifest>
